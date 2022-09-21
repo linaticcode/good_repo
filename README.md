@@ -1,2 +1,2 @@
 # good_repo
-whatsapp man everything cool!
+whatsapp man everything cool.
